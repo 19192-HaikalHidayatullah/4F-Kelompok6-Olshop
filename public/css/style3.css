@@ -1,0 +1,91 @@
+p {
+  font-family: "calibri light";
+  color: #146eb6;
+  font-size: 24pt;
+}
+header {
+  background-size: 100%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  border-bottom-style: solid;
+}
+.col-7{
+    padding-right: 8%;
+}
+a.btn {
+  background: transparent;
+  border-style: none;
+  width: 7%;
+}
+.btn:focus {
+  box-shadow: none;
+}
+img {
+  width: 50%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-right: 1%;
+  padding-left: 20%;
+}
+.nama {
+  text-align: left;
+  font-family: arial;
+  font-size: 16pt;
+  width: 70%;
+}
+.nama2 {
+  text-align: left;
+  font-family: arial;
+  width: 50.5%;
+}
+.aksi {
+  width: 10%;
+  text-align: right;
+  padding-right: 50px;
+}
+.aksi2 {
+  text-align: right;
+  padding-right: 50px;
+}
+p4 {
+  color: #0000ff;
+  font-size: 14pt;
+}
+.btn {
+  width: 100px;
+  background: #146eb6;
+  border-collapse: 5px;
+  border-radius: 3px;
+}
+.abu {
+  background: #e1e1e1;
+  padding-left: 10%;
+}
+.abu2 {
+  background: #e1e1e1;
+  padding-left: 10%;
+  margin-top: 2%;
+}
+.btn-primary {
+  background: #146eb6;
+  width: 245px;
+  border-radius: 3px;
+}
+.btn-default {
+  background: #999999;
+  width: 150px;
+  border-radius: 3px;
+}
+p1 {
+  font-size: 15.45px;
+}
+p2 {
+  font-size: 13.45px;
+  color: #0000ff;
+}
+p3 {
+  font-size: 14px;
+}
+#alamat {
+  width: 30%;
+}

@@ -1,0 +1,146 @@
+header {
+  background: url(../img/dahlah.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.menu li {
+  list-style: none;
+  display: inline;
+  position: auto;
+}
+
+.menu li2 {
+  list-style: none;
+  display: inline;
+  margin-left: auto;
+  margin-right: 0;
+  border-left: solid transparent;
+  box-shadow: initial;
+  text-shadow: pink;
+}
+
+.menu li3 {
+  margin-left: auto;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+#cart {
+  margin-left: 70%;
+  height: 34px;
+  width: 34px;
+  background: white;
+  background-image: url(../img/cart.jpg);
+  border-radius: 8px;
+  background-size: 100%;
+  background-position: center;
+}
+
+#konfirmasi {
+  margin-left: 120%;
+  height: 34px;
+  width: 34px;
+  background: white;
+  background-image: url(../img/konfirmasi.jpg);
+  border-radius: 8px;
+  background-size: 100%;
+  background-position: center;
+}
+
+#daftar {
+  margin-left: 45vh;
+}
+
+.form-horizontal > .form-group > .form-control {
+  height: 34px;
+  width: 500px;
+  border-radius: 8px;
+}
+
+.form-group > .form-control {
+  height: 30px;
+  width: 190px;
+}
+
+.backheader {
+  width: 43%;
+  padding-bottom: 0.3%;
+}
+
+.nav-tabs,
+.nav-tabs > li.active > a:focus {
+  border-style: none;
+  border: none;
+  margin-top: 0.86%;
+}
+
+.nav-tabs > li.hover {
+  background-color: #76b3e1;
+}
+
+.sidebar li {
+  list-style: none;
+  font-size: 12px;
+  font-family: arial;
+  padding-left: 2%;
+}
+
+nav {
+  padding-left: 10%;
+  background: #aadcf7;
+  padding-right: 10%;
+  padding-top: 5%;
+  width: 115%;
+  padding-bottom: 15%;
+  border-radius: 2%;
+}
+
+.col-xs-3 {
+  width: 180px;
+  margin-top: -5px;
+}
+
+.produk {
+  background: white;
+  height: 260px;
+  width: 170px;
+  margin-top: 2.5vh;
+  border-radius: 10px;
+  margin-left: 2.5vh;
+  border-style: solid;
+  border-color: #4591ce;
+  position: relative;
+  box-shadow: 2px 2px 2px 2px rgba(40, 121, 190, 0.2);
+}
+
+.produk a {
+  color: black;
+  text-decoration: none;
+}
+
+.gambar img {
+  width: 150px;
+  height: 150px;
+  margin-left: 9px;
+}
+
+.nama_produk p {
+  font-family: arial;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 10px;
+  margin-top: 10px;
+}
+
+.footer {
+  background: #76b3e1;
+  margin-top: 2.5%;
+}

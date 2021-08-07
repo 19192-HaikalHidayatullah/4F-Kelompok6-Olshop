@@ -1,0 +1,56 @@
+body {
+  font-family: "calibri light";
+  background: #056db6;
+  position: fixed;
+  padding: 0;
+  margin: -15px;
+}
+.isi {
+  background: #dcdbdb;
+  min-height: 1264px;
+  min-width: 864px;
+  padding: 0px;
+  position: fixed;
+}
+.atas {
+  min-height: 15px;
+}
+#dua {
+  width: 615px;
+  margin-left: 100px;
+  padding-left: 50px;
+  padding-top: 170px;
+}
+.form-control {
+  width: 260px;
+}
+#satu {
+  margin-left: 300px;
+  padding-top: 100px;
+}
+#tiga {
+  margin-left: 100px;
+  padding-top: 15px;
+  border-top: solid;
+}
+#masuk {
+  margin-top: -25px;
+  text-align: right;
+}
+div1 {
+  text-align: center;
+}
+form {
+  padding-top: 50px;
+}
+.bg {
+  background-image: url(bgmasuk.jpg);
+  position: fixed;
+  background-size: cover;
+  display: flex;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  transform: translate(0%, 0%);
+  width: 120%;
+  height: 2000%;
+}

@@ -1,0 +1,125 @@
+    body{
+      font-family: "Calibri Light";
+      background: #056DB6;
+
+      }
+    .col-md-7{
+      background: #DCDBDB;
+      min-height: 1064px;
+      max-width: 864px;
+      position: fixed;
+    }
+    .col-md-3{
+      width: 270px;
+    }
+    .col-md-6{
+      width: 590px;
+    }
+    .form-control{
+      max-width: 250px;
+    }
+    #satu{
+      margin-left: 100px;
+      padding-top: 20px;
+    }
+    #dua{
+      margin-left: 50px;
+      padding-top: 20px;
+    }
+    #tiga{
+      margin-left: 100px;
+      padding-top: 15px;
+      border-top: solid;
+    }   
+    #klik{
+      text-align: right;
+    }
+    div1{
+      text-align: center;
+    }
+.bg{
+    background-image: url(bgmasuk.jpg);
+    position: fixed;
+    background-size: cover; 
+    display: flex;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    transform: translate(0%, 0%);
+    width: 120%;
+    height: 2000%;
+}   
+.bawah{
+  margin-top: -45px;
+}
+.atas{
+  height: 15px;
+}
+
+    @media (max-height: 1080px; max-width: 1280px; ){
+      body{
+        overflow-x: hidden;
+      }
+    .col-md-6{
+      width: 720px;
+    }
+    .form-control{
+      max-width: 260px;
+    }
+    #satu{
+      margin-left: 200px;
+      padding-top: 20px;
+    }
+    #dua{
+      margin-left: 100px;
+      padding-top: 20px;
+    }
+    #tiga{
+      margin-left: 100px;
+      padding-top: 15px;
+      border-top: solid;
+    }   
+    .atas{
+      margin-top: -70px;
+    }       
+    }
+    @media(min-width: 1364px){
+      .col-md-7{
+      min-height: 900px;
+      min-width: 864px;
+      }
+    }
+    @media(min-width: 1900px)
+    {
+      body{
+        font-size: 18pt;
+      }
+    .col-md-6{
+      width: 870px;
+    }
+    .form-control{
+      max-width: 290px;
+    }   
+    #satu{
+      margin-left: 100px;
+      padding-top: 20px;
+      width: 300px;
+    }
+    #dua{
+      margin-left: 100px;
+      padding-top: 20px;
+    }
+    #tiga{
+      margin-left: 100px;
+      padding-top: 15px;
+      border-top: solid;
+    }   
+    .atas{
+      margin-top: -70px;
+    }
+    .col-md-7{
+      background: #DCDBDB;
+      min-height: 1064px;
+      max-width: 1100px;
+      position: fixed;
+    }         
+    }

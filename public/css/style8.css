@@ -1,0 +1,40 @@
+body {
+  background: url(bgmasuk.jpg);
+  background-size: 100%;
+}
+
+form {
+  background: rgba(220, 219, 219, 0.6);
+  width: 30%;
+  padding: 3%;
+  margin-top: 5%;
+  margin-left: 35%;
+  border-radius: 3%;
+}
+
+.form-control {
+  background: transparent;
+  border-style: none;
+  border-bottom-style: solid;
+  border-radius: 0;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-style: none;
+  border-bottom-style: solid;
+  border-bottom-color: blue;
+  background: transparent;
+  border-radius: 0;
+}
+
+.btn {
+  color: white;
+}
+
+.btn:hover,
+.btn:focus {
+  color: #aadcf7;
+  box-shadow: none;
+  border-style: none;
+}

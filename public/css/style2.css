@@ -1,0 +1,88 @@
+.display-1 {
+  font-family: "adobe garamond pro bold";
+  font-size: 50pt;
+}
+p {
+  font-family: "calibri light";
+  color: #146eb6;
+  font-size: 24pt;
+}
+header {
+  background: url(../img/admin/dahlah.png);
+  background-size: 100%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+}
+.sidebar {
+  background: #aadcf7;
+  height: 100%;
+  padding-top: 5%;
+  font-family: "calibri light";
+}
+span {
+  font-size: 32pt;
+}
+#kategori {
+  width: 30%;
+}
+.col-5 {
+  width: 40%;
+  font-family: "calibri light";
+}
+.dua {
+  padding-top: 125px;
+}
+li {
+  list-style: none;
+  position: unset;
+  font-size: 16pt;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+  background: #97d5f5;
+  border-style: solid;
+  border-color: #619ebf;
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+}
+a:active {
+}
+.footer {
+  background: #76b3e1;
+}
+#cari {
+  width: 87%;
+}
+.btn-primary {
+  background: #c7e8fa;
+  color: black;
+  border-style: none;
+}
+.form-control {
+  border-radius: 3px;
+  font-size: 12pt;
+}
+.icon {
+  width: 12%;
+  padding-left: 2%;
+}
+.col-9 {
+  min-height: 100vh;
+  font-family: "calibri light";
+}
+.table {
+  text-align: center;
+}
+#deskripsi {
+  height: 100px;
+}
+th,
+td {
+  width: 20%;
+}
